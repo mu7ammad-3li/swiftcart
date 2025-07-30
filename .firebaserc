@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "swiftcart"
+  },
+  "targets": {
+    "swiftcart": {
+      "hosting": {
+        "main-app": [
+          "swiftcart"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
